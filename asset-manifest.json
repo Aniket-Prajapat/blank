@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Aniket-Prajapat/blank.git/static/css/main.e4370941.css",
+    "main.js": "/Aniket-Prajapat/blank.git/static/js/main.c86ff470.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Aniket-Prajapat/blank.git/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Aniket-Prajapat/blank.git/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/Aniket-Prajapat/blank.git/static/media/leaf.7e2abb0e1622522766e3.png",
+    "static/media/Aniket Prajapati sde.pdf": "/Aniket-Prajapat/blank.git/static/media/Aniket Prajapati sde.03086c4f207408c88f47.pdf",
+    "static/media/blog.png": "/Aniket-Prajapat/blank.git/static/media/blog.07d2de5f28e525233cee.png",
+    "static/media/emotion.png": "/Aniket-Prajapat/blank.git/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Aniket-Prajapat/blank.git/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Aniket-Prajapat/blank.git/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/home-main.svg": "/Aniket-Prajapat/blank.git/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Aniket-Prajapat/blank.git/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/Aniket-Prajapat/blank.git/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/Aniket-Prajapat/blank.git/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/Aniket-Prajapat/blank.git/static/media/logo.c58e032b8c2e3e5d9fba.png",
+    "static/media/avatar.svg": "/Aniket-Prajapat/blank.git/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Aniket-Prajapat/blank.git/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Aniket-Prajapat/blank.git/index.html",
+    "main.e4370941.css.map": "/Aniket-Prajapat/blank.git/static/css/main.e4370941.css.map",
+    "main.c86ff470.js.map": "/Aniket-Prajapat/blank.git/static/js/main.c86ff470.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Aniket-Prajapat/blank.git/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Aniket-Prajapat/blank.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4370941.css",
+    "static/js/main.c86ff470.js"
+  ]
+}
